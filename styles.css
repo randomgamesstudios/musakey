@@ -29,7 +29,7 @@ body {
 
 .character img {
     width: 100px;
-    height: 110px;
+    height: 100px;
     object-fit: cover;
     border-radius: 0%;
 }
